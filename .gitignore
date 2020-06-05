@@ -1,0 +1,8 @@
+lib/
+static/js/amazon-cognito-auth.min.js
+static/js/amazon-cognito-identity.min.js
+static/js/login.js
+static/js/signup.js
+static/js/config.js
+static/js/createNew.js
+.DS_Store
